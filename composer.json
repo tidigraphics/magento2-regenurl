@@ -1,5 +1,5 @@
 {
-  "name": "iazel/module-regen-product-url",
+  "name": "tidigraphics/module-regen-product-url",
   "description": "N/A",
   "require": {
     "php": "~5.6.0|~7.0",
